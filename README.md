@@ -41,5 +41,4 @@ In the demo, we show how our models identify the sounds. Note that there are no 
 
 
 
-https://user-images.githubusercontent.com/73985159/145271334-739f09f3-b6a6-4db0-b5db-2b4faa124d53.mp4
-
+https://user-images.githubusercontent.com/73985159/145271639-f03178d0-8b8d-4872-9970-1af592b086a1.mp4
