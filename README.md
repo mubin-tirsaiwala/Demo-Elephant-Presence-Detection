@@ -39,4 +39,7 @@ Currently, field validations are going on in Kerela and Assam.
 All the audio files used in the demo below can be found in [assets](/assets) folder.  
 In the demo, we show how our models identify the sounds. Note that there are no hardware accelerators used for this demo and the models are not optimized for latency. These things are considered in the hardware deployment part though.
 
-![Demo Recording](/assets/stat_full_recording.mp4)
+
+
+https://user-images.githubusercontent.com/73985159/145271334-739f09f3-b6a6-4db0-b5db-2b4faa124d53.mp4
+
